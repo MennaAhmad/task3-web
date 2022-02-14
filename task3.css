@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(to right ,#76a0ef ,#bf00ff );
+}
+.form{
+    margin: auto;
+    width: 280px;
+    height: 450px;
+   padding-top: 25px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   margin-top: 150px;
+   color: black;
+    border: white;
+    background-color: white;
+    /* text-align: center; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+.form .login-button{
+    color: white;
+    background-color: transparent;
+    border: 0px white;
+    width: 260px;
+    height: 35px;
+    display: block;
+    background-image: linear-gradient(to right ,#76a0ef ,#bf00ff );
+    margin: auto;
+    text-decoration: unset;
+    text-align: center;
+    font-size: 25px;
+} 
+.form .email , .password {
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.form .link {
+    text-decoration: unset;
+}
+.form .central {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
